@@ -4,7 +4,7 @@
   <h2> <strong> Skills </strong></h2>
   <img src="https://skillicons.dev/icons?i=figma,ps,ae,ai,vscode,unreal,html,css" alt="Tools"> 
   <img src="https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" width="50" height="50" alt="C4D"> 
-    <img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/simplified-badges/maya-2023-simplified-badge-75x75.png" width="46" height="46" alt="Maya"> 
+  <img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/simplified-badges/maya-2023-simplified-badge-75x75.png" width="46" height="46" alt="Maya"> 
   <br> 
 
 <!--
