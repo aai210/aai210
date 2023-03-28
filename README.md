@@ -1,4 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
+
+<div align="center">
+  <h2> <strong> Tools </strong></h2>
+  <img src="https://skillicons.dev/icons?i=html,css,Figma" alt="Tools"> <br> 
+
 <!--
 **aai210/aai210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
