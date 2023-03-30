@@ -1,4 +1,5 @@
 # Hi, I'm Andrey 👋
+I'm a designer who tried his hand at different areas of design and settled on UI/UX. I'm also passionate about 3D graphics and coding.
 
 ## About me
 - 🎓 
