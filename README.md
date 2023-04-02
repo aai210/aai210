@@ -5,7 +5,7 @@ I'm a designer who tried his hand at different areas of design. The main directi
 - 🌳 I’m currently learning **Web3, 3D, GameDev** 
 - 🎯 My Goal to work on awesome UI/UX design projects
 - :octocat: I'm interested to meet new people
-- 🎨 Portfolio
+- 🎨 Portfolio UI/UX [Behance](https://www.behance.net/aai210) or [Dribbble](http://dribbble.com/aai210)
 - 🐦 To contact me [Email](mailto:aart7f@gmail.com) or [LinkedIn](https://linkedin.com/in/aai210)
 
 <div align="Left">
