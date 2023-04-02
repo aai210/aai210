@@ -2,8 +2,8 @@
 I'm a designer who tried his hand at different areas of design. The main direction in design for me was UI/UX. I'm also passionate about 3D graphics and coding.
 
 ## About me
-- 🌳  I’m currently learning **Web3, 3D, GameDev** 
-- 🎯 
+- 🌳 I’m currently learning **Web3, 3D, GameDev** 
+- 🎯 My Goal to work on awesome UI/UX design projects
 - :octocat: I'm interested to meet new people
 - 🐦
 - 🧙
