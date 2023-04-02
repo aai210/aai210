@@ -5,8 +5,7 @@ I'm a designer who tried his hand at different areas of design. The main directi
 - 🌳 I’m currently learning **Web3, 3D, GameDev** 
 - 🎯 My Goal to work on awesome UI/UX design projects
 - :octocat: I'm interested to meet new people
-- 🐦
-- 🧙
+- 🐦 To contact me [Email](mailto:aart7f@gmail.com) or [LinkedIn](https://linkedin.com/in/aai210)
 
 <div align="Left">
   <h2> <strong> Skills </strong></h2>
