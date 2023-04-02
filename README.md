@@ -3,9 +3,11 @@ I'm a designer who tried his hand at different areas of design. The main directi
 
 ## About me
 - 🎓 
-- 🌱 
 - 🎯 
 - ✨ 
+- :octocat: I'm interested to meet new people
+- 🐦
+- 🧙
 
 <div align="Left">
   <h2> <strong> Skills </strong></h2>
