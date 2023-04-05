@@ -1,5 +1,5 @@
 # Hi, I'm Andrey 👋
-I'm a designer who tried his hand at different areas of design. The main direction in design for me was UI/UX. I'm also passionate about 3D graphics and coding.
+I'm a designer who tried his hand at different areas of design to find what suits me. The main direction in design for me was UI/UX. I'm also passionate about 3D graphics, coding, productivity and many others. I'm Interesting learning something new and creating amazing things.
 
 ## About me
 - 🌳 I’m currently learning **Web3, 3D, GameDev** 
