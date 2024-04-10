@@ -10,7 +10,7 @@ I'm a designer who tried his hand at different areas of design to find what suit
 
 <div align="Left">
   <h2> <strong> Some my tools </strong></h2>
-  <img src="https://skillicons.dev/icons?i=figma,ps,ae,ai,vscode,unreal,html,css,blender" alt="Tools"> 
+  <img src="https://skillicons.dev/icons?i=figma,ps,ae,ai,vscode,unreal,html,css,js,blender,notion" alt="Tools"> 
   <img src="https://upload.wikimedia.org/wikipedia/en/d/d8/C4D_Logo.png" width="50" height="50" alt="C4D"> 
   <img src="https://damassets.autodesk.net/content/dam/autodesk/www/product-imagery/badge-75x75/simplified-badges/maya-2023-simplified-badge-75x75.png" width="46" height="46" alt="Maya"> 
   <img src="https://www.adobe.com/content/dam/cc/icons/pt_appicon_256.svg" width="46" height="46" alt="Marmoset Toolbag"> 
