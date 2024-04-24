@@ -5,7 +5,7 @@ I'm a designer who tried his hand at different areas of design to find what suit
 - 🌳 I’m currently learning **Web3, 3D, GameDev** 
 - :octocat: I'm interested to meet new people
 - 🎨 Portfolio UI/UX [Behance](https://www.behance.net/aai210) or [Dribbble](http://dribbble.com/aai210)
-- 💬 Sometimes active on social platforms [LinkedIn](https://linkedin.com/in/aai210)
+- 💬 Sometimes active on [LinkedIn](https://linkedin.com/in/aai210)
 - 🐦 To contact me [Email](mailto:aart7f@gmail.com)
 
 <div align="Left">
