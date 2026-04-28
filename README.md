@@ -10,4 +10,4 @@ I'm a designer who tried his hand at different areas of design to find what suit
   <h2> <strong> Some my tools </strong></h2>
   <img src="https://skillicons.dev/icons?i=figma,ps,blender,ae,unreal,obsidian,vscodium,html,css,js,py,linux,raspberrypi" alt="Tools">  
 </div>
-<br>
+
